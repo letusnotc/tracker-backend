@@ -20,15 +20,8 @@ This project simulates a functional BitTorrent tracker with:
 
 # 📸 Screenshots
 
-> Replace these image paths with your actual screenshots.
-
 ### **Dashboard**
 ![Dashboard Screenshot](./assets/trkdash1.png)
-
-### **Swarm Graph**
-![Swarm Graph](./assets/trkdash2.png)
-
----
 
 # 🚀 Features
 
